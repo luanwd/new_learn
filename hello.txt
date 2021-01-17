@@ -1,0 +1,3 @@
+print('hello world')
+git is a version control system
+gi is a free software
