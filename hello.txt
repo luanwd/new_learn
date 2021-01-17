@@ -2,3 +2,4 @@ print('hello world')
 git is not  a version control system
 gi is a free software very nice
 this is the fourth step and beautiful
+git has a mutable index called stage
